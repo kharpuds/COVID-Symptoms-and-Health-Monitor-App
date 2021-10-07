@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MC_Assignment1</string>
+    <string name="back_facing_camera">Back Facing Camera</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="measure_heart_rate">Measure Heart Rate</string>
+    <string name="upload_signs">Upload Signs</string>
+    <string name="measure_respiratory_rate">Measure Respiratory Rate</string>
+    <string name="upload_symptoms">Upload Symptoms</string>
+    <string name="button">Button</string>
+    <string name="add_current_symptom">Add Current Symptom</string>
+    <string-array name="symptoms_spinner">Select Symptoms
+        <item>Nausea</item>
+        <item>Headache</item>
+        <item>Diarrhea</item>
+        <item>Sore Throat</item>
+        <item>Muscle Ache</item>
+        <item>Fever</item>
+        <item>Loss of Smell or Taste</item>
+        <item>Cough</item>
+        <item>Shortness of Breath</item>
+        <item>Feeling Tired</item>
+    </string-array>
+</resources>
